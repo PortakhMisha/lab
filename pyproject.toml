@@ -1,0 +1,16 @@
+[tool.poetry]
+name = "pythonproject1"
+version = "0.1.0"
+description = ""
+authors = ["misha_portah <mr1misha123@gmail.com>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.9"
+flask = "^3.0.0"
+waitress = "^2.1.2"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
