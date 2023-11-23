@@ -1,7 +1,6 @@
-# labCertainly! Here's a more detailed README file that you can copy and paste into your GitHub repository:
+# lab
 
-markdown
-Copy code
+
 # Flask Project with Waitress Server
 
 ## Description
